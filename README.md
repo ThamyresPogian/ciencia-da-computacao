@@ -33,15 +33,15 @@ SOFTWARE.
 </p>
 <p align="center">
   <a href="https://github.com/ThamyresPogian">
-    <img alt="Pessoal" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/180px-GitHub_Invertocat_Logo.svg.png">
+    <img alt="Pessoal" width="50%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/180px-GitHub_Invertocat_Logo.svg.png">
   </a>
   <a href="https://github.com/Universidade-Livre/ciencia-da-computacao?tab=readme-ov-file#comunidade">
-	<img alt="Universidade Brasileira Livre" src="https://ulivre.dev/imgs/bannerubl.png">
+	<img alt="Universidade Brasileira Livre" width="50%" src="https://ulivre.dev/imgs/bannerubl.png">
   </a>
 </p>
 <p align="center">
    <a href="https://www.linkedin.com/in/thamyres-neves-pogian/">
-    <img alt="LinkedIn" width="50" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg">
+    <img alt="LinkedIn" width="100" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg">
   </a>
 </p>
 
