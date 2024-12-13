@@ -29,7 +29,7 @@ SOFTWARE.
 <p align="center">
 <h3 align="center">Curso de Ciência da Computação - Universidade Brasileira Livre</h3>
 <p align="center">
-  Bem-vindo ao meu repositório de aprendizado! Ele foi construído e dedicado ao registro do meu progresso no curso de **Ciência da Computação** oferecido pela **Universidade Brasileira Livre**. Ao longo do curso, estarei documentando e armazenando os projetos, exercícios que forem sendo desenvolvidos, além do Trabalho de Conclusão de Curso.
+  Bem-vindo ao meu repositório de aprendizado! Ele foi construído e dedicado ao registro do meu progresso no curso de Ciência da Computação oferecido pela Universidade Brasileira Livre. Ao longo do curso, estarei documentando e armazenando os projetos, exercícios que forem sendo desenvolvidos, além do Trabalho de Conclusão de Curso.
 </p>
 <p align="center">
   <a href="https://github.com/ThamyresPogian">
@@ -49,7 +49,6 @@ SOFTWARE.
 
 - [Objetivo](#objetivo)
 - [Conteúdo](#conteúdo)
-- [Técnicas de estudo, organização e aprendizagem](#t%C3%A9cnicas-de-estudo-organiza%C3%A7%C3%A3o-e-aprendizagem)
 - [Currículo](#curr%C3%ADculo)
 - [Código de Conduta](CODE_OF_CONDUCT.md)
 - [Time](#time)
@@ -65,8 +64,6 @@ O objetivo deste repositório é organizar todo o conteúdo estudado durante o c
 - Pesquisas: Textos e pesquisas produzidas sobre os temas das aulas.
 
 # Currículo
-
-Você pode fazer os cursos na ordem, onde, e como preferir. Este é o maior benefício da liberdade. Entretanto, por fins didáticos e de organização, recomendamos que tente respeitar os pré-requisitos. Você perceberá que não cumprir com estes poderá criar obstáculos em sua jornada.
 
 ### Dependências entre assuntos
 
@@ -176,8 +173,6 @@ As disciplinas abaixo não estão divididas por semestre, por serem pouco numero
 
 ## Especializações
 
-Após ter concluído a formação geral, você já deve ter uma ampla visão sobre Ciência da Computação, seus fundamentos e aplicações e estará mais que preparado para escolher uma área de especialidade dentro de suas aplicações para se tornar especialista. A partir daqui não vamos mais elencar pré-requisitos, pois entendemos que com a bagagem da formação geral o aluno já consegue ter pleno conhecimento sobre como estudar temas complexos e decidir como e quando fazer cada curso sem necessitar de recomendação.
-
 Especialização     | Áreas de Atuação
 :--                | :--     
 [Computação Gráfica](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/computer_graphics.md) |  `softwares gráficos`, `aplicações 3D`, `games`, `fotorrealismo`, `sistemas gráficos`, `simuladores`, `e mais`
@@ -188,30 +183,15 @@ Especialização     | Áreas de Atuação
 [DevOps](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/devops.md) |  `devops`, `infraestrutura`, `container`, `docker`, `kubernetes`, `CI/CD`, `e mais`
 [Design de Algoritmos](#) | `em breve`
 
-## Como demonstrar o meu progresso?
+## Agradecimentos!
 
-A melhor forma de demonstrar sua evolução e maturidade ao longo do currículo é por meio de exercícios. Estes exercícios podem ser os encontrados nas leituras recomendadas ou, em caso de disciplinas mais aplicadas, projetos práticos. Compartilhar sobre os projetos que tem feito ao longo do Curso, seja por meio de redes sociais, blogues, tutoriais, streaming... vai demonstrar para as pessoas do meio técnico e de outros meios o quanto você aprendeu e evoluiu ao longo dessa jornada.
-
-Não deixe de hospedar todos os seus códigos em seu perfil do GitHub, mesmo que sejam pequenos projetos ou apenas exercícios eles podem demonstrar muito sobre o que você tem estudado, como você resolve problemas e o quanto você melhorou ao longo do tempo.
-
-## Parabéns!
-
-Após completar todos os requisitos do currículo acima e aprender ao menos uma especialização você já viu todo o conteúdo equivalente a um Bacharelado completo em Ciência da Computação. Parabéns!
-
-O que fazer após isso? Bem, na verdade as possibilidades são sem limites e interconectadas:
-- Procurar um trabalho como Desenvolvedor em sua especialidade.
-- Aprender mais lendo livros clássicos de Ciência da Computação em um [Clube do Livro](https://github.com/pilhacheia/clube-do-livro-dev) para melhorar suas habilidades e expandir seu conhecimento (além de fazer muitos amigos)!
-- Participar ou organizar meetups de tecnologia.
-- Encontrar novas tecnologias que estão crescendo:
-  - Explorar o **modelo de atores (actor model)** com [Elixir](https://elixirschool.com/pt) ou [Scala](https://www.coursera.org/specializations/scala), que são linguagens modernas com ferramental e bibliotecas muito interessantes para Desenvolvimento Web e que utilizam VM's muito poderosas!
-  - Explorar  **empréstimo (borrowing) e tempo de vida (lifetimes)** em [Rust](https://rust-br.github.io/rust-book-pt-br/), uma linguagem que tem [segurança de memória](https://pt.wikipedia.org/wiki/Seguran%C3%A7a_de_mem%C3%B3ria) e de [fio de execução](https://pt.wikipedia.org/wiki/Thread_safety) sem um [coletor de lixo](https://pt.wikipedia.org/wiki/Coletor_de_lixo_(inform%C3%A1tica))!
-  - Aprender mais sobre **tipos** e **inferência de tipos** com [OCaml](https://github.com/Camilotk/ocaml4noobs), uma linguagem multiparadigma com inferência estática de tipos!
+Gostaria de expressar minha imensa gratidão aos meus pais Norlan e Renata, que sempre acreditaram em meu potencial eme incentivaram a alcançar meus sonhos. Agradeço a Deus, que foi o primeiro a me amar e acreditar em mim, guiando-me em cada passo dessa jornada. E, por fim, mas nunca menos importante, agradeço ao meu esposo Raphael, que, com sua admiração e apoio constante, tem sido uma fonte de força e motivação para eu seguir em frente, mesmo nos momentos desafiadores. Cada um de vocês têm um papel fundamental na realização desse sonho e sou eternamente grata por todo o apoio.
 
 <p align="center">
 <img src="https://github.com/Universidade-Livre/imagens/blob/main/mascote/mascote_ubl_cut.png" />
 </p>
 
- ## Time
+ ## Time que contribuiu para o curso acontecer
   - [Camilo Cunha de Azevedo](https://github.com/Camilotk): Fundador da ULivre
   - [Mateus Roveda](https://github.com/mateusrovedaa): Líder de Comunidade
   - [Leonardo Fiedler](https://github.com/leonardoFiedler): Mantenedor da Especialização em Ciência de Dados
@@ -221,8 +201,8 @@ O que fazer após isso? Bem, na verdade as possibilidades são sem limites e int
   - [Emanuel Castelo](https://github.com/elvcastelo): Moderador da Comunidade 
   - [Gustavo Schneider](https://github.com/SttavoS): Moderador da Comunidade 
 
-## Contribuidores
-Nosso muito obrigado a todas essas pessoas!
+## Contribuidores de materiais e conteúdo
+Muito obrigado a todas essas pessoas!
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
