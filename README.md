@@ -41,7 +41,7 @@ SOFTWARE.
 </p>
 <p align="center">
    <a href="https://www.linkedin.com/in/thamyres-neves-pogian/">
-    <img alt="LinkedIn" width="25" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg">
+    <img alt="LinkedIn" width="50" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg">
   </a>
 </p>
 
