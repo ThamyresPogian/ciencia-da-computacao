@@ -32,11 +32,11 @@ SOFTWARE.
   Bem-vindo ao meu repositório de aprendizado! Ele foi construído e dedicado ao registro do meu progresso no curso de Ciência da Computação oferecido pela Universidade Brasileira Livre. Ao longo do curso, estarei documentando e armazenando os projetos, exercícios que forem sendo desenvolvidos, além do Trabalho de Conclusão de Curso.
 </p>
 <p align="center">
-  <a href="https://github.com/sindresorhus/awesome">
-    <img alt="Pessoal" src="https://github.com/ThamyresPogian">
+  <a href="https://github.com/ThamyresPogian">
+    <img alt="Pessoal" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
   </a>
-  <a href="https://github.com/ossu/computer-science">
-	<img alt="Universidade Brasileira Livre" src="https://github.com/Universidade-Livre/ciencia-da-computacao?tab=readme-ov-file#comunidade">
+  <a href="https://github.com/Universidade-Livre/ciencia-da-computacao?tab=readme-ov-file#comunidade">
+	<img alt="Universidade Brasileira Livre" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
   </a>
 </p>
 <p align="center">
