@@ -33,10 +33,10 @@ SOFTWARE.
 </p>
 <p align="center">
   <a href="https://github.com/ThamyresPogian">
-    <img alt="Pessoal" width="50%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/180px-GitHub_Invertocat_Logo.svg.png">
+    <img alt="Pessoal" width="20%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/180px-GitHub_Invertocat_Logo.svg.png">
   </a>
   <a href="https://github.com/Universidade-Livre/ciencia-da-computacao?tab=readme-ov-file#comunidade">
-	<img alt="Universidade Brasileira Livre" width="50%" src="https://ulivre.dev/imgs/bannerubl.png">
+	<img alt="Universidade Brasileira Livre" width="20%" src="https://ulivre.dev/imgs/bannerubl.png">
   </a>
 </p>
 <p align="center">
