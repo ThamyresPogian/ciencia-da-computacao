@@ -29,7 +29,7 @@ SOFTWARE.
 <p align="center">
 <h3 align="center">Curso de Ciência da Computação - Universidade Brasileira Livre</h3>
 <p align="center">
-  Bem-vindo ao meu repositório de aprendizado! Ele foi construído e dedicado ao registro do meu progresso no curso de Ciência da Computação oferecido pela Universidade Brasileira Livre. Ao longo do curso, estarei documentando e armazenando os projetos, exercícios que forem sendo desenvolvidos, além do Trabalho de Conclusão de Curso.
+  Bem-vindo ao meu repositório de aprendizado! Ele foi construído e dedicado ao registro do meu progresso no curso de **Ciência da Computação** oferecido pela **Universidade Brasileira Livre**. Ao longo do curso, estarei documentando e armazenando os projetos, exercícios que forem sendo desenvolvidos, além do Trabalho de Conclusão de Curso.
 </p>
 <p align="center">
   <a href="https://github.com/ThamyresPogian">
@@ -47,85 +47,22 @@ SOFTWARE.
 
 # Conteúdos
 
-- [Sumário](#sum%C3%A1rio)
-- [Comunidade](#comunidade)
+- [Objetivo](#objetivo)
+- [Conteúdo](#conteúdo)
 - [Técnicas de estudo, organização e aprendizagem](#t%C3%A9cnicas-de-estudo-organiza%C3%A7%C3%A3o-e-aprendizagem)
 - [Currículo](#curr%C3%ADculo)
 - [Código de Conduta](CODE_OF_CONDUCT.md)
 - [Time](#time)
 
-# Sumário
+# Objetivo
 
-O Curso de Ciência da Computação oferecido pela Universidade Livre Brasileira é **uma educação completa em Ciência da Computação** 
-usando materiais on-line e em Português do Brasil.
-Este Curso não é pensado para treinamento em tecnologias específicas ou focado em habilidades profissionais direcionadas ao mercado, e sim para aqueles que desejam uma educação própria, **com qualidade**, fundada nos conceitos fundamentais da computação
-e é planejada para alunos com disciplina, comprometimento e (o mais importante) bons hábitos de estudo majoritariamente independentes,
-mas que buscam o suporte de uma comunidade de outros estudantes no Brasil todo.
+O objetivo deste repositório é organizar todo o conteúdo estudado durante o curso e compartilhar os projetos práticos desenvolvidos, criando um portifólio de aprendizado na área de Ciência da Computação.
 
-Este curso contém conteúdos que seriam vistos em um curso de Ciência da Computação organizados de forma estruturada.
-Os cursos em si são selecionados primariamente do conteúdo aberto de diversas Universidades e Institutos de Educação do Brasil. Entretanto,
-os cursos presentes na grade seguem os seguintes critérios:
+# Conteúdo
 
-**Bases para a criação do Currículo (Guidelines):**
-
-Levamos em consideração - apesar de não termos implementado completamente conforme sugerido - os seguintes documentos sobre a formação de um currículo
-em Ciência da Computação. Continuaremos constantemente trabalhando e aceitando sugestões de melhorias para cada vez mais oferecer uma experiência
-melhor para todos os estudantes que seguem nosso guia aberto de conteúdos. Além das referências abaixo, também utilizamos como referência as grades curriculares de outras instituições de ensino superior brasileiras.
-
-- [Referenciais de Formação para os Cursos de Graduação em Computação 2017 (SBC)](https://www.sbc.org.br/documentos-da-sbc/send/131-curriculos-de-referencia/1165-referenciais-de-formacao-para-cursos-de-graduacao-em-computacao-outubro-2017)
-- [Diretrizes Curriculares de Cursos da Área de Computação e Informática (UFRGS)](https://www.inf.ufrgs.br/site/wp-content/uploads/2016/05/diretrizes_curriculares.pdf)
-
-**Os Cursos devem**:
-- Ser gratuitos ou de conteúdo que possa ser assistido de forma aberta
-- Possuir método pedagógico
-- Ter reconhecimento de qualidade da Comunidade sobre o tema
-- Estar de acordo com o que se espera do Currículo de Ciências da Computação
-
-Todas as disciplinas possuem uma lista de leituras recomendadas. É de sua responsabilidade escolher a metodologia mais adequada. Note que os livros, em sua maioria, não são gratuitos.
-
-Cursos de qualidade recomendados que não se encaixam na grade serão adicionados em [cursos extras](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/extras/courses.md). O mesmo ocorrerá quanto aos livros em [livros extras](#).
-
-
-**Todos os cursos podem ser completados de forma gratuita.** Porém, alguns cursos têm diplomas, certificados, atividades, ou extras opcionais que são pagos. Observe que o [Coursera](https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid) oferece ajuda financeira.
-
-Os estudantes podem fazer as disciplinas individualmente ou em grupo, seguindo a ordem que estabelecemos ou não, sempre respeitando os pré-requisitos curriculares.
-
-Apenas publique em seu GitHub e espaços públicos os materiais que seu Curso permite que sejam publicados. **Nunca desrespeite nenhuma regra do curso em que se matriculou e nunca faça plágios!**
-
-**[Como contribuir](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/CONTRIBUTING.md)**
-
-**[Conseguindo ajuda](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/HELP.md)** (Detalhes sobre o FAQ e servidor)
-
-# Comunidade
-
-- Temos um servidor no Discord! [![Discord](https://img.shields.io/discord/866378348368625704.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/eXUBTY6HAu) Nele, você poderá encontrar e interagir com outros estudantes. Por que não se apresenta lá agora mesmo? [Vem para o Discord](https://discord.gg/eXUBTY6HAu).
-- Você também pode interagir sobre questões a respeito dos problemas do Curso, propor mudanças de Currículo e outras coisas relacionadas por meio das nossas [issues](https://github.com/Universidade-Livre/ciencia-da-computacao/issues). Sinta-se à vontade para abrir discussões lá.
-- Adicione a Universidade Brasileira Livre no seu perfil do [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6889534067805605889)!
-
-# Antes de começar
-
-Há tópicos que, apesar de não serem essenciais na formação de Ciência da Computação, podem ser muito úteis na sua jornada de aprendizado. Se desejar, você pode optar por ignorá-los momentaneamente e revisá-los posteriormente.
-
-## Técnicas de estudo, organização e aprendizagem
-
-Antes de começar a estudar é importante que você aprenda algumas coisas importantes. Ser autodidata não é sobre aprender sozinho, nem sobre não estar vinculado à uma Instituição de Ensino Superior (IES), mas sobre **ser responsável pelo seu próprio ensino** e isso é algo que exige saber como estudar, o quanto estudar, e como organizar seus estudos. Para isso, recomendamos os seguintes conteúdos abaixo.
-
-
-Curso | Conteúdos
-:-- | --: 
-[Aprendendo a aprender](https://pt.coursera.org/learn/aprender) ¹ | Memória; Técnicas de estudo; Recursos de estudo.
-[Como estudar do jeito certo](https://www.youtube.com/playlist?list=PL5TJqBvpXQv7Q2lT7L7BrTrh6tgZY872s) | Tempo; Técnica; Discussão.
-
-¹ Disponível com legendas em Português.
-
-## Git e GitHub
-
-Conhecer ferramentas como o Git o ajudará a organizar seus projetos de estudo. O GitHub - ou outras plataformas como BitBucket ou GitLab - pode ser muito útil para trabalhar remotamente e compartilhar os seus projetos com colegas, além de poder usá-lo como portfólio em futuras oportunidades de trabalho.  
-
-Curso | Conteúdos
-:-- | --: 
-[Git e Github para Iniciantes](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A) | Git; GitHub; Controle de versão.
-[Git e GitHub](https://www.cursoemvideo.com/curso/curso-de-git-e-github/) | Git; GitHub; Controle de versão.
+- Projetos: Repositórios de projetos práticos desenvolvidos durante o curso.
+- Exercícios: Exercícios e desafios resolvidos, com soluções e explicações.
+- Pesquisas: Textos e pesquisas produzidas sobre os temas das aulas.
 
 # Currículo
 
