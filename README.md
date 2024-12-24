@@ -50,8 +50,6 @@ SOFTWARE.
 - [Objetivo](#objetivo)
 - [Conteúdo](#conteúdo)
 - [Currículo](#curr%C3%ADculo)
-- [Código de Conduta](CODE_OF_CONDUCT.md)
-- [Time](#time)
 
 # Objetivo
 
