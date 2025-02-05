@@ -24,9 +24,6 @@ SOFTWARE.
 -->
 
 <p align="center">
-<img src="https://uploaddeimagens.com.br/images/003/361/136/original/placeholder.jpg">
-</p>
-<p align="center">
 <h3 align="center">Curso de Ciência da Computação - Universidade Brasileira Livre</h3>
 <p align="center">
   Bem-vindo ao meu repositório de aprendizado! Ele foi construído e dedicado ao registro do meu progresso no curso de Ciência da Computação oferecido pela Universidade Brasileira Livre. Ao longo do curso, estarei documentando e armazenando os projetos, exercícios que forem sendo desenvolvidos, além do Trabalho de Conclusão de Curso.
