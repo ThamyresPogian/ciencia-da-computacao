@@ -77,7 +77,7 @@ A grade curricular abaixo está dividida em etapas para melhor visualização
 | 1 | [Matemática Discreta](https://www.youtube.com/watch?v=KGoSTh1sgyM&list=PL6mfjjCaO1WrEJ0JKRyXO3QjaPkJaSvAS)<br>Feito no 2º Período de Sistemas de Computação na UFF | - | [Livros sobre Matemática Discreta](extras/bibliography/02_discrete_mathematics.md) |
 | 1 | [Linguagens de Programação](https://www.youtube.com/watch?v=xfDdxqbkiSQ&list=PLnzT8EWpmbka4KukGR184tifzqcuq_ZDv)<br>Feito no 1º Período de Ciência de Dados na Estácio | - | [Livros sobre Linguagens de Programação](extras/bibliography/03_programming_languages.md) |
 | 1 | [Programação I com PYTHON](https://www.coursera.org/learn/ciencia-computacao-python-conceitos)<br>Feito no 2º Período de Sistemas de Computação na UFF | - | [Livros sobre Programação de Computadores](extras/bibliography/04_intro_python.md) |
-| 1 | [Geometria Analítica](https://www.youtube.com/watch?v=ijkDjQT7UPM&list=PL82Svt6JAgOH3M6TCELx8oegTVCriUg3L) | - | [Livros sobre Geometria Analítica](extras/bibliography/05_analytic_geometry.md) |
+| 1 | [Geometria Analítica](https://www.youtube.com/watch?v=ijkDjQT7UPM&list=PL82Svt6JAgOH3M6TCELx8oegTVCriUg3L)<br>Feito no 3º Período de Ciência de Dados na Estácio | - | [Livros sobre Geometria Analítica](extras/bibliography/05_analytic_geometry.md) |
 
 ---
 
