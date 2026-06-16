@@ -71,7 +71,7 @@ O objetivo deste repositório é organizar todo o conteúdo estudado durante o c
 A grade curricular abaixo está dividida em etapas para melhor visualização
 
 ### 1ª Etapa
-| Etapa | Aulas em Vídeo | Pré-requisitos | Leitura Recomendada |
+| Etapa | Aulas em Vídeo | Links Úteis | Leitura Recomendada |
 |---|---|---|---|
 | 1 | [Circuitos Digitais](https://www.youtube.com/playlist?list=PLXyWBo_coJnMYO9Na3t-oYsc2X4kPJBWf)<br>Feito no 1º Período de Sistemas de Computação na UFF | - | [Livros sobre Circuitos Digitais](extras/bibliography/01_digital_circuits.md) |
 | 1 | [Matemática Discreta](https://www.youtube.com/watch?v=KGoSTh1sgyM&list=PL6mfjjCaO1WrEJ0JKRyXO3QjaPkJaSvAS)<br>Feito no 2º Período de Sistemas de Computação na UFF | - | [Livros sobre Matemática Discreta](extras/bibliography/02_discrete_mathematics.md) |
@@ -83,7 +83,7 @@ A grade curricular abaixo está dividida em etapas para melhor visualização
 
 ### 2ª Etapa
 
-|  Etapa   | Aulas em Vídeo | Pré-requisitos | Leitura Recomendada |
+|  Etapa   | Aulas em Vídeo | Links Úteis | Leitura Recomendada |
 | -------- | --------------- | --------------- | -------------------- |
 | 2 | [Cálculo I](https://www.youtube.com/watch?v=WgHUHPlJETs&list=PLAudUnJeNg4tr-aiNyYCXE46L3qEZ2Nzx)<br>Feito no 3º Período de Sistemas de Computação na UFF | [Exercícios](https://github.com/ThamyresPogian/ciencia-da-computacao/tree/main/exercicios) | [Livros de Cálculo I](extras/bibliography/06_intro_calculus.md) |
 | 2 | [Álgebra Linear I](https://www.youtube.com/playlist?list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI) | [Geometria Analítica](https://www.youtube.com/watch?v=ijkDjQT7UPM&list=PL82Svt6JAgOH3M6TCELx8oegTVCriUg3L) | [Livros de Álgebra Linear](extras/bibliography/07_intro_linear_algebra.md) |
@@ -96,7 +96,7 @@ A grade curricular abaixo está dividida em etapas para melhor visualização
 
 ### 3ª Etapa
 
-| Etapa    | Aulas em Vídeo | Pré-requisitos | Leitura Recomendada |
+| Etapa    | Aulas em Vídeo | Links Úteis | Leitura Recomendada |
 | -------- | --------------- | --------------- | -------------------- |
 | 3 | [Algoritmos em Grafos](https://www.youtube.com/watch?v=fjOiu6CD5pc&list=PLrPn-zKAOzUzKdPqFNF52g-i9p1f-vmsk)<br>Feito no 2º Período de Sistemas de Computação na UFF | [Estruturas de Dados](https://www.youtube.com/watch?v=0hT3EKGhbpI&list=PLndfcZyvAqbofQl2kLLdeWWjCcPlOPnrW) | [Livros sobre Algoritmos em Grafos](extras/bibliography/11_graph_algorithms.md) |
 | 3 | [Arquitetura de Computadores I](https://www.youtube.com/playlist?list=PLEUHFTHcrJmswfeq7QEHskgkT6HER3gK6)<br>Feito no 2º Período de Sistemas de Computação na UFF | [Circuitos Digitais](https://www.youtube.com/playlist?list=PLXyWBo_coJnMYO9Na3t-oYsc2X4kPJBWf) | [Livros sobre Arquitetura de Computadores I](extras/bibliography/12_computer_architecture.md) |
